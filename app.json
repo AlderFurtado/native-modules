@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "native-modules",
+    "slug": "native-modules",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
